@@ -1,5 +1,7 @@
 # Programas Esenciales Después de un Formateo
 
+![Windows Image](path/to/your/image.png)
+
 En este repositorio, encontrarás una colección de enlaces a programas esenciales que necesitarás instalar después de un formateo o reinstalación de Windows. Estos programas son de uso común y te ayudarán a mejorar la funcionalidad y la experiencia general de tu sistema operativo. A continuación, se describen brevemente los programas incluidos:
 
 1. **.NET Framework (Última versión)**: [Descargar .NET Framework](https://dotnet.microsoft.com/download/dotnet)
