@@ -70,6 +70,8 @@ En este repositorio, encontrarás una colección de enlaces para descargar los c
 
 10. **Controladores de Acer**: [Descargar controladores de Acer](https://www.acer.com/ac/en/US/content/drivers)
 
+11. **Controladores de MSI**: [Descargar controladores de MSI](https://www.msi.com/support/download)
+
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
