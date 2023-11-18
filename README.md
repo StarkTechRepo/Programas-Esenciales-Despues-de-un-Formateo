@@ -14,7 +14,7 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 2. [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 3. [.NET Framework All-in-One](https://www.itechtics.com/net-framework-versions-offline-installers/)
 4. [7-zip (Última versión)](https://www.7-zip.org/)
-5. [Adobe Acrobat Reader DC (Última versión)](https://get.adobe.com/uk/reader/enterprise/)
+5. [Adobe Acrobat Reader DC (Última versión)](https://get.adobe.com/es/reader/enterprise/)
 6. [Codec Guide- K-Lite Codec Pack - Para Windows 11 - 10 - 8.1 - 7](https://codecguide.com/)
 7. [FastCopy*](https://fastcopy.jp/)
 8. [Descarga oficial del Reproductor multimedia VLC, el mejor reproductor de código abierto - VideoLAN](https://www.videolan.org/vlc/)
