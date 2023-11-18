@@ -12,7 +12,7 @@ En este repositorio, encontrarás una colección de enlaces a programas esencial
 
 4. **7-zip (Última versión)**: [Descargar 7-zip](https://www.7-zip.org/)
 
-5. **Adobe Acrobat Reader DC (Última versión)**: [Descargar Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
+5. **Adobe Acrobat Reader DC (Última versión)**: [Descargar Adobe Acrobat Reader DC](https://get.adobe.com/uk/reader/enterprise/)
 
 6. **Codec Guide- K-Lite Codec Pack - Para Windows 11 - 10 - 8.1 - 7**: [Descargar K-Lite Codec Pack](https://codecguide.com/)
 
