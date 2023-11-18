@@ -143,7 +143,7 @@ En este repositorio, encontrarás una colección de enlaces para descargar los c
 
 ---
 
-# Forma Rápida de Instalar Programas con Chocolatey
+# Forma Rápida de Instalar Programas
 
 ### Instalación Rápida de Programas con Chocolatey
 
