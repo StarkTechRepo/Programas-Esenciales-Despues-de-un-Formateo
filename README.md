@@ -32,6 +32,7 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 20. [Visual C++ Redistributable All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 21. [Unchecky (Última versión)](https://unchecky.com/)
 22. [WinRAR (Última versión)](https://www.rarlab.com/download.htm))
+23. [FX Sound (Última versión)](https://www.fxsound.com/download))
 
 # Controladores de Hardware
 
@@ -106,6 +107,8 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 21. **Unchecky (Última versión)**: [Descargar Unchecky](https://unchecky.com/) - Una herramienta que ayuda a evitar la instalación de software no deseado durante la instalación de programas en Windows.
 
 22. **WinRAR (Última versión)**: [Descargar WinRAR](https://www.rarlab.com/download.htm) - Herramienta de compresión y descompresión de archivos con una amplia compatibilidad de formatos.
+
+22. **FX Sound (Última versión)**: [Descargar FX Sound](https://www.fxsound.com/download) - Mejora la calidad de sonido de tu computadora con esta potente herramienta de mejora de audio.
 
 ---
 
