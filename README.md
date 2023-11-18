@@ -128,6 +128,19 @@ choco install vlc
 ```
 ¡Esta es una forma rápida y eficiente de instalar múltiples programas en Windows usando Chocolatey!
 
+### Lista de comandos de Chocolatey
+
+```choco install [paquete]```
+```choco update [paquete]```
+```choco uninstall [paquete]```
+```choco list```
+```choco find [nombre o descripción]```
+```choco search [nombre o descripción]```
+```choco source add [dirección URL]```
+```choco source remove [dirección URL]```
+```choco upgrade all```
+```choco help```
+
 ---
 
 ### Instalación Rápida de Programas con Ninite
