@@ -130,16 +130,16 @@ choco install vlc
 
 ### Lista de comandos de Chocolatey
 
-```choco install [paquete]```
-```choco update [paquete]```
-```choco uninstall [paquete]```
-```choco list```
-```choco find [nombre o descripción]```
-```choco search [nombre o descripción]```
-```choco source add [dirección URL]```
-```choco source remove [dirección URL]```
-```choco upgrade all```
-```choco help```
+- `choco install [paquete]`: Instala un paquete específico.
+- `choco update [paquete]`: Actualiza un paquete específico.
+- `choco uninstall [paquete]`: Desinstala un paquete específico.
+- `choco list`: Muestra una lista de paquetes instalados.
+- `choco find [nombre o descripción]`: Busca paquetes disponibles basados en el nombre o descripción.
+- `choco search [nombre o descripción]`: Busca información sobre paquetes disponibles basados en el nombre o descripción.
+- `choco source add [dirección URL]`: Agrega una fuente de paquetes.
+- `choco source remove [dirección URL]`: Elimina una fuente de paquetes.
+- `choco upgrade all`: Actualiza todos los paquetes instalados.
+- `choco help`: Muestra ayuda y documentación sobre comandos Chocolatey.
 
 ---
 
