@@ -10,44 +10,11 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 
 # Índice
 
-1. [.NET Framework (Última versión)](https://dotnet.microsoft.com/download/dotnet)
-2. [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
-3. [.NET Framework All-in-One](https://www.itechtics.com/net-framework-versions-offline-installers/)
-4. [7-zip (Última versión)](https://www.7-zip.org/)
-5. [Adobe Acrobat Reader DC (Última versión)](https://get.adobe.com/es/reader/enterprise/)
-6. [Codec Guide- K-Lite Codec Pack - Para Windows 11 - 10 - 8.1 - 7](https://codecguide.com/)
-7. [FastCopy*](https://fastcopy.jp/)
-8. [Descarga oficial del Reproductor multimedia VLC, el mejor reproductor de código abierto - VideoLAN](https://www.videolan.org/vlc/)
-9. [DirectX Runtime Offline Installer (Junio 2010) - Descarga de TechPowerUp](https://www.techpowerup.com/download/directx-end-user-runtime-web-installer/)
-10. [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-11. [Descargar Microsoft XNA Framework Redistributable 4.0 desde el Centro de Descargas Oficial de Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
-12. [GitHub - abbodi1406-vcredist - AIO Repack para las últimas versiones de Microsoft Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist/releases)
-13. [Habilitar .NET Framework 3.5 (desde ISO de Windows)](https://example.com)
-14. [Habilitar .NET Framework 3.5](https://example.com)
-15. [Habilitar DirectPlay](https://example.com)
-16. [Java (Última versión)](https://www.java.com/es/download/)
-17. [LibreOffice - LibreOffice en español - Suite ofimática libre, basada en OpenOffice, compatible con Microsoft](https://es.libreoffice.org/)
-18. [OpenAL - Cross Platform 3D Audio](https://openal.org/)
-19. [Visual C++ Redistributable (Última versión)](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-20. [Visual C++ Redistributable All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-21. [Unchecky (Última versión)](https://unchecky.com/)
-22. [WinRAR (Última versión)](https://www.rarlab.com/download.htm))
-23. [FX Sound (Última versión)](https://www.fxsound.com/download))
-24. [Malwarebytes (Última versión)](https://www.malwarebytes.com/)
-
-# Controladores de Hardware
-
-1. [Controladores de AMD](https://www.amd.com/es/support)
-2. [Controladores de Intel](https://downloadcenter.intel.com/es/download/last)
-3. [Controladores de NVIDIA](https://www.nvidia.com/Download/index.aspx)
-4. [Controladores de Realtek](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
-5. [Controladores de Logitech](https://support.logi.com/hc/en-us/categories/360001595913-Downloads)
-6. [Controladores de HP](https://support.hp.com/us-en/drivers)
-7. [Controladores de Dell](https://www.dell.com/support/home/en-us?app=drivers)
-8. [Controladores de Lenovo](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/)
-9. [Controladores de ASUS](https://www.asus.com/support/Download-Center/)
-10. [Controladores de Acer](https://www.acer.com/ac/en/US/content/drivers)
-11. [Controladores de MSI](https://www.msi.com/support/download)
+1. [Programas Esenciales Después de un Formateo](#programas-esenciales-después-de-un-formateo)
+2. [Controladores de Hardware](#controladores-de-hardware)
+3. [Forma Rápida de Instalar Programas](#forma-rápida-de-instalar-programas)
+    - 3.1 [Instalación Rápida de Programas con Chocolatey](#instalación-rápida-de-programas-con-chocolatey)
+    - 3.2 [Instalación Rápida de Programas con Ninite](#instalación-rápida-de-programas-con-ninite)
 
 ---
 
