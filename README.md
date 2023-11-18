@@ -161,6 +161,8 @@ choco install vlc
 ```
 ¡Esta es una forma rápida y eficiente de instalar múltiples programas en Windows usando Chocolatey!
 
+---
+
 ### Instalación Rápida de Programas con Ninite
 
 [Ninite](https://ninite.com/) es una herramienta que simplifica la instalación de varios programas en Windows de manera rápida y sin complicaciones. Aquí te dejo una guía paso a paso:
