@@ -33,6 +33,7 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 21. [Unchecky (Última versión)](https://unchecky.com/)
 22. [WinRAR (Última versión)](https://www.rarlab.com/download.htm))
 23. [FX Sound (Última versión)](https://www.fxsound.com/download))
+24. [Malwarebytes (Última versión)](https://www.malwarebytes.com/)
 
 # Controladores de Hardware
 
@@ -108,7 +109,9 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 
 22. **WinRAR (Última versión)**: [Descargar WinRAR](https://www.rarlab.com/download.htm) - Herramienta de compresión y descompresión de archivos con una amplia compatibilidad de formatos.
 
-22. **FX Sound (Última versión)**: [Descargar FX Sound](https://www.fxsound.com/download) - Mejora la calidad de sonido de tu computadora con esta potente herramienta de mejora de audio.
+23. **FX Sound (Última versión)**: [Descargar FX Sound](https://www.fxsound.com/download) - Mejora la calidad de sonido de tu computadora con esta potente herramienta de mejora de audio.
+
+24. **Malwarebytes (Última versión)**: [Descargar Malwarebytes](https://www.malwarebytes.com/) - Protege tu sistema contra malware, ransomware y otras amenazas con este potente software antivirus.
 
 ---
 
