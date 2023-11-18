@@ -104,6 +104,8 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 
 21. **Unchecky (Última versión)**: [Descargar Unchecky](https://unchecky.com/) - Una herramienta que ayuda a evitar la instalación de software no deseado durante la instalación de programas en Windows.
 
+22. **WinRAR (Última versión)**: [Descargar WinRAR](https://www.rarlab.com/download.htm) - Herramienta de compresión y descompresión de archivos con una amplia compatibilidad de formatos.
+
 ---
 
 # Controladores de Hardware
