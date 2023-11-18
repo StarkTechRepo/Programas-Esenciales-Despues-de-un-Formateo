@@ -1,8 +1,56 @@
-# Programas Esenciales Después de un Formateo
+# Programas y Controladores Esenciales para Windows
+
+Este repositorio proporciona una lista completa de programas esenciales para instalar después de formatear tu sistema operativo Windows. Desde herramientas de compresión hasta reproductores multimedia, codecs y frameworks, encontrarás enlaces directos para descargar e instalar las últimas versiones de estos programas.
+
+Además, hemos incluido una sección dedicada a los enlaces de descarga de controladores de hardware de los principales fabricantes, asegurando que tu sistema funcione de manera óptima y segura.
+
+¡Optimiza tu experiencia en Windows con esta recopilación de software esencial y asegúrate de tener los controladores más recientes para tu hardware!
 
 ![Windows Image](path/to/your/image.png)
 
-En este repositorio, encontrarás una colección de enlaces a programas esenciales que necesitarás instalar después de un formateo o reinstalación de Windows. Estos programas son de uso común y te ayudarán a mejorar la funcionalidad y la experiencia general de tu sistema operativo. A continuación, se describen brevemente los programas incluidos:
+# Índice
+
+1. [.NET Framework (Última versión)](https://dotnet.microsoft.com/download/dotnet)
+2. [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
+3. [.NET Framework All-in-One](https://www.itechtics.com/net-framework-versions-offline-installers/)
+4. [7-zip (Última versión)](https://www.7-zip.org/)
+5. [Adobe Acrobat Reader DC (Última versión)](https://get.adobe.com/uk/reader/enterprise/)
+6. [Codec Guide- K-Lite Codec Pack - Para Windows 11 - 10 - 8.1 - 7](https://codecguide.com/)
+7. [FastCopy*](https://fastcopy.jp/)
+8. [Descarga oficial del Reproductor multimedia VLC, el mejor reproductor de código abierto - VideoLAN](https://www.videolan.org/vlc/)
+9. [DirectX Runtime Offline Installer (Junio 2010) - Descarga de TechPowerUp](https://www.techpowerup.com/download/directx-end-user-runtime-web-installer/)
+10. [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+11. [Descargar Microsoft XNA Framework Redistributable 4.0 desde el Centro de Descargas Oficial de Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
+12. [GitHub - abbodi1406-vcredist - AIO Repack para las últimas versiones de Microsoft Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist/releases)
+13. [Habilitar .NET Framework 3.5 (desde ISO de Windows)](https://example.com)
+14. [Habilitar .NET Framework 3.5](https://example.com)
+15. [Habilitar DirectPlay](https://example.com)
+16. [Java (Última versión)](https://www.java.com/es/download/)
+17. [LibreOffice - LibreOffice en español - Suite ofimática libre, basada en OpenOffice, compatible con Microsoft](https://es.libreoffice.org/)
+18. [OpenAL - Cross Platform 3D Audio](https://openal.org/)
+19. [Visual C++ Redistributable (Última versión)](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+20. [Visual C++ Redistributable All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+21. [Unchecky (Última versión)](https://unchecky.com/)
+
+---
+
+# Controladores de Hardware
+
+1. [Controladores de AMD](https://www.amd.com/es/support)
+2. [Controladores de Intel](https://downloadcenter.intel.com/es/download/last)
+3. [Controladores de NVIDIA](https://www.nvidia.com/Download/index.aspx)
+4. [Controladores de Realtek](https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software)
+5. [Controladores de Logitech](https://support.logi.com/hc/en-us/categories/360001595913-Downloads)
+6. [Controladores de HP](https://support.hp.com/us-en/drivers)
+7. [Controladores de Dell](https://www.dell.com/support/home/en-us?app=drivers)
+8. [Controladores de Lenovo](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/)
+9. [Controladores de ASUS](https://www.asus.com/support/Download-Center/)
+10. [Controladores de Acer](https://www.acer.com/ac/en/US/content/drivers)
+11. [Controladores de MSI](https://www.msi.com/support/download)
+
+---
+
+# Programas Esenciales Después de un Formateo
 
 1. **.NET Framework (Última versión)**: [Descargar .NET Framework](https://dotnet.microsoft.com/download/dotnet) - La última versión del entorno de ejecución .NET para desarrolladores de software.
 
@@ -58,6 +106,8 @@ En este repositorio, encontrarás una colección de enlaces a programas esencial
 
 21. **Unchecky (Última versión)**: [Descargar Unchecky](https://unchecky.com/) - Una herramienta que ayuda a evitar la instalación de software no deseado durante la instalación de programas en Windows.
 
+---
+
 # Controladores de Hardware
 
 En este repositorio, encontrarás una colección de enlaces para descargar los controladores de hardware más recientes para tu sistema. Mantener los controladores actualizados es importante para garantizar un funcionamiento óptimo y seguro de tu hardware. A continuación, se describen brevemente los controladores incluidos:
@@ -83,6 +133,8 @@ En este repositorio, encontrarás una colección de enlaces para descargar los c
 10. **Controladores de Acer**: [Descargar controladores de Acer](https://www.acer.com/ac/en/US/content/drivers)
 
 11. **Controladores de MSI**: [Descargar controladores de MSI](https://www.msi.com/support/download)
+
+---
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
