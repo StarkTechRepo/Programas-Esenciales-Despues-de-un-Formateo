@@ -32,8 +32,6 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 20. [Visual C++ Redistributable All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 21. [Unchecky (Última versión)](https://unchecky.com/)
 
----
-
 # Controladores de Hardware
 
 1. [Controladores de AMD](https://www.amd.com/es/support)
