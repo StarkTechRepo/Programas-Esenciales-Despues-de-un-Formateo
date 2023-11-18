@@ -143,6 +143,40 @@ En este repositorio, encontrarás una colección de enlaces para descargar los c
 
 ---
 
+# Forma Rápida de Instalar Programas con Chocolatey
+
+### Instalación Rápida de Programas con Chocolatey
+
+[Chocolatey](https://chocolatey.org/) es un administrador de paquetes para Windows que simplifica la instalación y actualización de software. Para usar Chocolatey, sigue estos pasos:
+
+1. **Instalar Chocolatey**: Abre la línea de comandos como administrador y ejecuta el siguiente comando para instalar Chocolatey.
+
+```bash
+Get-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) && choco
+```
+
+2. **Instalar Programas**: Utiliza comandos sencillos de Chocolatey para instalar programas. Por ejemplo, para instalar VLC, ejecuta:
+```bash
+choco install vlc
+```
+¡Esta es una forma rápida y eficiente de instalar múltiples programas en Windows usando Chocolatey!
+
+### Instalación Rápida de Programas con Ninite
+
+[Ninite](https://ninite.com/) es una herramienta que simplifica la instalación de varios programas en Windows de manera rápida y sin complicaciones. Aquí te dejo una guía paso a paso:
+
+1. **Accede a Ninite**: Abre tu navegador web y visita [Ninite.com](https://ninite.com/).
+
+2. **Selecciona tus Programas**: En la página de Ninite, elige los programas que deseas instalar marcando las casillas correspondientes. Puedes seleccionar navegadores web, reproductores multimedia, herramientas de seguridad y más.
+
+3. **Descarga tu Instalador Personalizado**: Después de seleccionar tus programas, desplázate hacia abajo y haz clic en el botón "Get Your Ninite" para descargar un instalador personalizado.
+
+4. **Ejecuta el Instalador**: Una vez descargado, ejecuta el archivo descargado. Ninite instalará automáticamente todas las aplicaciones seleccionadas sin requerir intervención adicional.
+
+¡Y eso es todo! Ninite se encargará de instalar y mantener actualizados tus programas de manera eficiente. Es una excelente opción para ahorrar tiempo al configurar o reinstalar software en tu sistema Windows.
+
+---
+
 # Licencia
 Este procedimiento está bajo la [licencia Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos pasos siempre que des el crédito correspondiente al autor original.
 
