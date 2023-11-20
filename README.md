@@ -45,19 +45,19 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 12. **GitHub - abbodi1406-vcredist - AIO Repack para las últimas versiones de Microsoft Visual C++ Redistributable Runtimes**: [Descargar AIO Repack](https://github.com/abbodi1406/vcredist/releases) - Paquete que contiene todas las versiones de Visual C++ Redistributable.
 
 13. **Habilitar .NET Framework 3.5 (desde ISO de Windows)**:  
-    ```bash
+    ```
     DISM /online /enable-feature /featurename:NetFX3 /All /Source:%setupdrv%:\sources\sxs /LimitAccess 
     ```
     - Comando para habilitar .NET Framework 3.5 desde una ISO de Windows.
 
 14. **Habilitar .NET Framework 3.5**:  
-    ```bash
+    ```
     DISM /Online /Enable-Feature /FeatureName:NetFx3 /All  
     ```
     - Comando para habilitar .NET Framework 3.5.
 
 15. **Habilitar DirectPlay**:  
-    ```bash
+    ```
     Dism /online /Enable-Feature /FeatureName:"DirectPlay" -All
     ```
     - Comando para habilitar DirectPlay.
