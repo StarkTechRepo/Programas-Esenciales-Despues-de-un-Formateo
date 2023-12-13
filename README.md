@@ -85,8 +85,6 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 
 # Controladores de Hardware
 
-En este repositorio, encontrarás una colección de enlaces para descargar los controladores de hardware más recientes para tu sistema. Mantener los controladores actualizados es importante para garantizar un funcionamiento óptimo y seguro de tu hardware. A continuación, se describen brevemente los controladores incluidos:
-
 1. **Controladores de AMD**: [Descargar controladores de AMD](https://www.amd.com/es/support)
 
 2. **Controladores de Intel**: [Descargar controladores de Intel](https://downloadcenter.intel.com/es/download/last)
