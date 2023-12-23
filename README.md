@@ -81,6 +81,7 @@ Además, hemos incluido una sección dedicada a los enlaces de descarga de contr
 24. **Malwarebytes (Última versión)**: [Descargar Malwarebytes](https://www.malwarebytes.com/) - Protege tu sistema contra malware, ransomware y otras amenazas con este potente software antivirus.
 
 25. **PDFelement (Última versión)**: [Descargar PDFelement](https://pdf.wondershare.es/) - PDFelement es un software de edición de PDF con funciones de creación, edición, conversión, anotación y protección. También ofrece funciones de IA como traducción automática, OCR y análisis de texto.
+
 ---
 
 # Controladores de Hardware
