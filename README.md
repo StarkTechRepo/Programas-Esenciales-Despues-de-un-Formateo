@@ -1,10 +1,10 @@
 # Programas y Controladores Esenciales para Windows
 
-Este repositorio proporciona una lista completa de programas esenciales para instalar después de formatear tu sistema operativo Windows. Desde herramientas de compresión hasta reproductores multimedia, codecs y frameworks, encontrarás enlaces directos para descargar e instalar las últimas versiones de estos programas.
+- Este repositorio proporciona una lista completa de programas esenciales para instalar después de formatear tu sistema operativo Windows. Desde herramientas de compresión hasta reproductores multimedia, codecs y frameworks, encontrarás enlaces directos para descargar e instalar las últimas versiones de estos programas.
 
-Además, hemos incluido una sección dedicada a los enlaces de descarga de controladores de hardware de los principales fabricantes, asegurando que tu sistema funcione de manera óptima y segura.
+- Además, hemos incluido una sección dedicada a los enlaces de descarga de controladores de hardware de los principales fabricantes, asegurando que tu sistema funcione de manera óptima y segura.
 
-¡Optimiza tu experiencia en Windows con esta recopilación de software esencial y asegúrate de tener los controladores más recientes para tu hardware!
+- ¡Optimiza tu experiencia en Windows con esta recopilación de software esencial y asegúrate de tener los controladores más recientes para tu hardware!
 
 ![imagen](foto.jpg)
 
